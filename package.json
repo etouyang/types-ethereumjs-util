@@ -1,6 +1,6 @@
 {
   "name": "types-ethereumjs-util",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "TypeScript declaration for ethereumjs-util",
   "main": "index.d.js",
   "types": "index.d.js",
@@ -14,9 +14,9 @@
     "url": "https://github.com/machinomy/types-ethereumjs-util/issues"
   },
   "homepage": "https://github.com/machinomy/types-ethereumjs-util#readme",
-  "devDependencies": {
+  "dependencies": {
     "types-buffer": "^0.0.2",
-    "types-rlp": "^0.0.1",
-    "types-bn": "^0.0.1"
+    "types-bn": "^0.0.1",
+    "types-rlp": "^0.0.1"
   }
 }
