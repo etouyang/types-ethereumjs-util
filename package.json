@@ -15,9 +15,8 @@
   },
   "homepage": "https://github.com/machinomy/types-ethereumjs-util#readme",
   "devDependencies": {
-    "types-buffer": "^0.0.2"
-  },
-  "dependencies": {
-    "buffer": "^5.0.6"
+    "types-buffer": "^0.0.2",
+    "types-rlp": "^0.0.1",
+    "types-bn": "^0.0.1"
   }
 }
