@@ -25,8 +25,6 @@ declare module 'ethereumjs-util' {
 
   export const SHA3_RLP: Buffer
 
-  export const BN: BN
-
   export const rlp: rlp
 
   export const secp256k1: any // TODO
