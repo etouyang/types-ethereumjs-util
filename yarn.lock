@@ -34,9 +34,3 @@ types-bn@^0.0.1:
 types-buffer@^0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/types-buffer/-/types-buffer-0.0.2.tgz#67949812689202853a4c6edbdfc6096f023a0b20"
-
-types-rlp@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/types-rlp/-/types-rlp-0.0.1.tgz#cb9a2fe70bbdabda3c2c491b21bc04c8bd917f9b"
-  dependencies:
-    rlp "^2.0.0"

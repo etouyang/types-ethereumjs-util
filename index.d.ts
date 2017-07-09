@@ -1,7 +1,6 @@
 declare module 'ethereumjs-util' {
   import { Buffer } from 'buffer'
   import BN = require('bn.js')
-  import rlp = require('rlp')
 
   interface Signature {
     v: number,
@@ -24,10 +23,6 @@ declare module 'ethereumjs-util' {
   export const SHA3_RLP_S: string
 
   export const SHA3_RLP: Buffer
-
-  export const rlp: rlp
-
-  export const secp256k1: any // TODO
 
   export function zeros (bytes: number): Buffer
 
