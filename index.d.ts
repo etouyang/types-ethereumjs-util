@@ -33,11 +33,11 @@ declare module 'ethereumjs-util' {
 
   export function zeros (bytes: number): Buffer
 
-  export function setLength (msg: Buffer, length: number, right: boolean = false): Buffer
-  export function setLength (msg: number[], length: number, right: boolean = false): number[]
+  export function setLength (msg: Buffer, length: number, right: boolean): Buffer
+  export function setLength (msg: number[], length: number, right: boolean): number[]
 
-  export function setLengthLeft (msg: Buffer, length: number, right: boolean = false): Buffer
-  export function setLengthLeft (msg: number[], length: number, right: boolean = false): number[]
+  export function setLengthLeft (msg: Buffer, length: number, right: boolean): Buffer
+  export function setLengthLeft (msg: number[], length: number, right: boolean): number[]
 
   export function setLengthRight (msg: Buffer, length: number): Buffer
   export function setLengthRight (msg: number[], length: number): number[]
