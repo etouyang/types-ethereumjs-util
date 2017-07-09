@@ -1,0 +1,23 @@
+{
+  "name": "types-ethereumjs-util",
+  "version": "0.0.1",
+  "description": "TypeScript declaration for ethereumjs-util",
+  "main": "index.d.js",
+  "types": "index.d.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/machinomy/types-ethereumjs-util.git"
+  },
+  "author": "Sergey Ukustov <sergey.ukustov@machinomy.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/machinomy/types-ethereumjs-util/issues"
+  },
+  "homepage": "https://github.com/machinomy/types-ethereumjs-util#readme",
+  "devDependencies": {
+    "types-buffer": "^0.0.2"
+  },
+  "dependencies": {
+    "buffer": "^5.0.6"
+  }
+}
