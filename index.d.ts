@@ -92,6 +92,8 @@ declare module 'ethereumjs-util' {
 
   export function addHexPrefix (str: string): string
 
+  export function stripHexPrefix (str: string): string
+
   export function isValidSignature (v: number, r: Buffer|string, s: Buffer|string, homestead?: boolean): boolean
 
   export function baToJSON (ba: Buffer): string
