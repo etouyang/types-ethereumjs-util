@@ -1,6 +1,6 @@
 {
   "name": "types-ethereumjs-util",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "TypeScript declaration for ethereumjs-util",
   "main": "index.d.js",
   "types": "index.d.js",
