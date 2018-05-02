@@ -1,5 +1,5 @@
 {
-  "name": "types-ethereumjs-util",
+  "name": "@machinomy/types-ethereumjs-util",
   "version": "0.0.8",
   "description": "TypeScript declaration for ethereumjs-util",
   "main": "index.d.js",
