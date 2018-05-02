@@ -2,8 +2,7 @@
   "name": "@machinomy/types-ethereumjs-util",
   "version": "0.0.10",
   "description": "TypeScript declaration for ethereumjs-util",
-  "main": "index.d.js",
-  "types": "index.d.js",
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/machinomy/types-ethereumjs-util.git"
